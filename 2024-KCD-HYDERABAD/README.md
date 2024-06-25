@@ -6,6 +6,7 @@
 - **Slides** : [Click here](./CEL-ebrating%20Simplicity:CRD%20Validation%20in%20Kubernetes%20Beyond%20Webhooks%20-%20Chirag%20-%20KCD%20Hyderabad%202024.pdf)
 - **Demo** : https://github.com/chiragkyal/cel-demo/tree/kcd-hyd-2024
 - **Recording** : Upcoming
+- **Summary** : TODO
 
 ## Event Details
 - **Date**: 22nd July, 2024

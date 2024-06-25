@@ -2,7 +2,7 @@
 
 ## Talk Details
 - **Title**: Encrypting Secrets in Kubernetes Clusters using KMS
-- **Speaker** : [@chiragkyal](https://github.com/chiragkyal), [@swghosh](https://github.com/swghosh)
+- **Speakers** : [@chiragkyal](https://github.com/chiragkyal), [@swghosh](https://github.com/swghosh)
 - **Slides** : [Slides](https://docs.google.com/presentation/d/1jpunFRfo3OQOr854RINYHOQr4u2DYuZmBn4qxNSFS3k/edit?usp=sharing), [PDF](./Encrypting%20Kubernetes%20Secrets%20using%20KMS.pdf)
 - **Demo** : TODO
 - **Recording** : https://youtu.be/TXyF1WqD3nM?feature=shared
